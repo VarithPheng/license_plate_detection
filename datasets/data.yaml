@@ -1,0 +1,8 @@
+names:
+  - carPlate  # List of class names
+nc: 1  # Number of classes
+
+# Full paths to the datasets
+train: F:/tii/licenseplatedetection/datasets/train/images
+val: F:/tii/licenseplatedetection/datasets/valid/images
+test: F:/tii/licenseplatedetection/datasets/test/images  # Optional
